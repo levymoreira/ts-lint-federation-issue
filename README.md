@@ -8,7 +8,7 @@ yarn # or npm install
 yarn start # or npm start
 ```
 
-## Behavior
+## Behaviour
 Expected:  
 Page loading with simple text showing the app name.
 Current:
